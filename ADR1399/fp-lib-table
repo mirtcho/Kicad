@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "TVS")(type "KiCad")(uri "/home/mirtcho/.local/share/kicad/6.0/footprints/footprints.pretty")(options "")(descr ""))
+)
