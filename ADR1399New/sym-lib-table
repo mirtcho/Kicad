@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "NOMC")(type "KiCad")(uri "/home/mirtcho/Downloads/ul_NOMCT16031002AT1/KiCADv6/2024-02-18_17-11-53.kicad_sym")(options "")(descr ""))
+  (lib (name "TVS")(type "KiCad")(uri "/home/mirtcho/Downloads/KiCADv6/2024-02-22_19-00-59.kicad_sym")(options "")(descr ""))
+)

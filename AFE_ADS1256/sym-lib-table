@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "pga280")(type "KiCad")(uri "/home/mirtcho/Downloads/ul_PGA280AIPW/KiCADv6/2023-08-26_17-25-38.kicad_sym")(options "")(descr ""))
+  (lib (name "pga855")(type "KiCad")(uri "/home/mirtcho/Downloads/ul_XPGA855RGTR/KiCADv6/2023-08-26_18-49-13.kicad_sym")(options "")(descr ""))
+)
